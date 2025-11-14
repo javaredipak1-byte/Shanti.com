@@ -1,0 +1,9 @@
+[build]
+  publish = "/"
+  command = ""
+
+# Redirects (if you later add client-side routes)
+# [[redirects]]
+#   from = "/*"
+#   to = "/index.html"
+#   status = 200
